@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\théo\.android\build-cache\21c09eb0b0f303e46af5b96ba27cdb4b8a0ee115\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android\Projects\Mimoosa\app\build\intermediates\pre-dexed\debug\classes_552f00456ab58318479eda4cc1025d5832a99e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\théo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Android\Projects\Mimoosa\app\build\intermediates\pre-dexed\debug\gson-2.6.2_12a6438b99bd3163b7e1c3eb69c9d0be401571aa.jar" />
+    </item>
+
+</items>
